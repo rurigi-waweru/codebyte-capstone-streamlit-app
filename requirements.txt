@@ -1,7 +1,7 @@
 absl-py==0.10.0
 accelerate==1.0.1
 aiofiles==23.2.1
-aiohttp @ file:///D:/bld/aiohttp_1603223723068/work
+aiohttp==3.9.5
 annotated-types==0.7.0
 anyio==4.5.2
 argon2-cffi @ file:///D:/bld/argon2-cffi_1605217273648/work
